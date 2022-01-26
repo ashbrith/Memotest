@@ -58,7 +58,7 @@ npm start
 ## Autor ✒️
 
 * **Manuel Basanta** - *Trabajo Inicial* - [manuelbasanta](https://github.com/manuelbasanta)
-* * **Guadalupe Roldan** - *Arreglos de estilo y ampliación del proyecto* - [ashbrith](https://github.com/ashbrith)
+* **Guadalupe Roldan** - *Arreglos de estilo y ampliación del proyecto* - [ashbrith](https://github.com/ashbrith)
 
 
 
